@@ -1,4 +1,4 @@
-let weight = 0.7;
+let weight = 0.9;
 let wMap = 1200*weight;
 let hMap = 800*weight;
 let padding = 90
